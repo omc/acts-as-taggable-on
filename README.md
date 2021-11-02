@@ -1,3 +1,6 @@
+# Temporary Fork
+Experimenting with upgrading to Rails 7, which is not yet supported by acts_as_taggable_on. This repo should be considered temporary and experimental, and we can delete it soon -- RS.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
